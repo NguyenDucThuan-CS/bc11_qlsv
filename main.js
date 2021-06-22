@@ -5,9 +5,8 @@ function getEle(id) {
 var dssv = new DanhSachSinhVien();
 var validation = new Validation();
 
-
 function addUser(){
-  console.log("Đây là addUser đã làm xong của dpnguyen");
+  console.log("Đây là addUser đã làm xong của dpnguyen2");
 }
 
 
